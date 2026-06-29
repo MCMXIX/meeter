@@ -12,8 +12,6 @@ Meeter is a simple dating application built as a technical assessment using Lara
 - Docker & Docker Compose
 - Vite
 
----
-
 ## Features
 
 - User Registration & Login
@@ -24,6 +22,3 @@ Meeter is a simple dating application built as a technical assessment using Lara
 - Conversation List
 - Message History
 - Responsive UI
-
----
-
