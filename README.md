@@ -92,11 +92,11 @@ http://localhost:8000
 Email
 
 ```
-demo@meeter.com
+demouser{0-9}@.com
 ```
 
 Password
 
 ```
-password
+password123
 ```
