@@ -92,7 +92,7 @@ http://localhost:8000
 Email
 
 ```
-demouser{0-9}@.com
+demouser{0-9}@gmail.com
 ```
 
 Password
