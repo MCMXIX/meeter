@@ -1,6 +1,6 @@
 # Meeter
 
-Meeter is a simple dating application built as a technical assessment using Laravel, Vue 3, Inertia.js, Tailwind CSS, and Docker.
+Meeter is a simple dating/social media web application built using Laravel, Vue 3, Inertia.js, Tailwind CSS, and Docker.
 
 ## Tech Stack
 
